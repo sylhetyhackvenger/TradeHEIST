@@ -1,5 +1,9 @@
 <p align="center">
-# 🚀 TRADE HEIST 🎯♣️💰💰💰
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
+
+<p align="center">
+#  🚀 TRADE HEIST 🎯♣️💰💰💰
 </p> 
 
 <p align="center">
