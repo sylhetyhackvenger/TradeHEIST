@@ -57,9 +57,12 @@ You can trust TRADE HEIST blindly. Before that you must learn fundamentals, mana
 17. Legal Disclaimer
 
 ## 🎬 Project Demo
+#sever1
 
 [Watch Project Demo](https://www.instagram.com/reel/Df5f5bEyuau/?bqrl=MWM5NHF4anE1Njk4Mg==)
 
+#server2
+https://youtube.com/shorts/zH8hxVPFanQ?si=sIu-JgeC3p_dPoSW
 
 <video src="./assets/VID-20261119-WA0000.mp4" controls width="100%">
 </video>
