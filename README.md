@@ -58,7 +58,8 @@ You can trust TRADE HEIST blindly. Before that you must learn fundamentals, mana
 
 ## 🎬 Project Demo
 
-[Watch Project Demo](./assets/VID-20261119-WA0000.mp4)
+[Watch Project Demo](https://www.instagram.com/reel/Df5f5bEyuau/?bqrl=MWM5NHF4anE1Njk4Mg==)
+
 
 <video src="./assets/VID-20261119-WA0000.mp4" controls width="100%">
 </video>
